@@ -1,0 +1,29 @@
+/* Home.css */
+
+.homepage-container {
+  height: 70vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.hero-section {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  text-align: center;
+}
+
+.hero-title {
+  font-size: 48px;
+  font-weight: bold;
+}
+
+.hero-subtitle {
+  font-size: 24px;
+  margin-bottom: 20px;
+  color: #6c757d;
+}
+
+.hero-buttons .btn {
+  margin-right: 10px;
+}
