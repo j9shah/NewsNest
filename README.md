@@ -76,15 +76,15 @@ Follow these instructions to set up and run the project locally. 🚛
 ## Screenshots 📷
 
 1. **Homepage**
-   ![image](https://github.com/user-attachments/assets/76ab28b8-a4dc-461f-8303-8431832249ed)
+   <img src="(https://github.com/user-attachments/assets/76ab28b8-a4dc-461f-8303-8431832249ed)" alt="Homepage Screenshot" width="500">
 
-2. **Login/Register**
+3. **Login/Register**
    ![image](https://github.com/user-attachments/assets/3121a0fb-58df-4e7d-8094-ec858f557b63) ![image](https://github.com/user-attachments/assets/3b777dcf-cf84-4dd3-8072-91f5ac7780ac)
 
-3. **Explore Articles**
+4. **Explore Articles**
    ![image](https://github.com/user-attachments/assets/69761a26-30ab-4bfc-8e7f-a691c1fc2950)
 
-4. **Saved Articles**
+5. **Saved Articles**
    ![image](https://github.com/user-attachments/assets/e36fc139-f7f3-41eb-8218-5e3b2cf6ae1a)
 
 ---
